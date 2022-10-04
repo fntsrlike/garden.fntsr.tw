@@ -4,8 +4,8 @@ module.exports = {
   trailingSlash: 'never', // Remove all trailing slashes on each URL, e.g. /x/ to /x
 
   siteMetadata: {
-    title: `Gatsby Garden`,
-    description: `A Digital Garden tended by Gatsby`,
+    title: `Yuehu`,
+    description: `良賈深藏若虛，君子盛德，容貌若愚。`,
 
     // siteUrl: `https://yoursite.com/notes/`, // URL at which your site will be published. This should be present if you want RSS feed.
     // headerMenu: [ // Top Navbar items
